@@ -61,7 +61,7 @@ pre {
     grid-template-columns: 36px 36px 200px;
     align-items: center;
     gap: 36px;
-    margin-left: 50%;
+    margin-left: 35%;
 }
 .owner img {
     width: 36px;
